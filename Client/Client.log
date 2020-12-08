@@ -1,0 +1,1835 @@
+﻿INFO  06:00:54 Application started. Press Ctrl+C to shut down.
+INFO  06:00:54 Application started. Press Ctrl+C to shut down.
+INFO  06:00:54 Hosting environment: Development
+INFO  06:00:54 Hosting environment: Development
+INFO  06:00:54 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  06:00:54 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  06:01:03 User Login Initiated
+INFO  06:01:11 User Login Initiated
+INFO  06:01:11 Ganesh successfully logged in
+ERROR 06:01:11 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 06:01:11 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  06:06:37 Application started. Press Ctrl+C to shut down.
+INFO  06:06:37 Application started. Press Ctrl+C to shut down.
+INFO  06:06:37 Hosting environment: Development
+INFO  06:06:37 Hosting environment: Development
+INFO  06:06:37 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  06:06:37 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  06:07:09 User Login Initiated
+INFO  06:07:15 User Login Initiated
+INFO  06:07:16 Ganesh successfully logged in
+ERROR 06:07:16 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 06:07:16 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  06:09:35 Application started. Press Ctrl+C to shut down.
+INFO  06:09:35 Application started. Press Ctrl+C to shut down.
+INFO  06:09:35 Hosting environment: Development
+INFO  06:09:35 Hosting environment: Development
+INFO  06:09:35 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  06:09:35 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  06:09:44 User Login Initiated
+INFO  06:09:46 Ganesh successfully logged in
+ERROR 06:09:46 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 06:09:46 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  06:14:01 Application started. Press Ctrl+C to shut down.
+INFO  06:14:01 Application started. Press Ctrl+C to shut down.
+INFO  06:14:01 Hosting environment: Development
+INFO  06:14:01 Hosting environment: Development
+INFO  06:14:01 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  06:14:01 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  06:14:09 User Login Initiated
+INFO  06:14:11 Deepak successfully logged in
+ERROR 06:14:11 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 06:14:11 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  06:16:28 Application started. Press Ctrl+C to shut down.
+INFO  06:16:28 Application started. Press Ctrl+C to shut down.
+INFO  06:16:28 Hosting environment: Development
+INFO  06:16:28 Hosting environment: Development
+INFO  06:16:28 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  06:16:28 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  06:16:47 User Login Initiated
+INFO  06:16:49 Ganesh successfully logged in
+ERROR 06:16:49 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 06:16:49 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  06:20:48 Application started. Press Ctrl+C to shut down.
+INFO  06:20:48 Application started. Press Ctrl+C to shut down.
+INFO  06:20:48 Hosting environment: Development
+INFO  06:20:48 Hosting environment: Development
+INFO  06:20:48 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  06:20:48 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  06:20:53 User Login Initiated
+INFO  06:21:05 User Login Initiated
+INFO  06:21:06 Ganesh successfully logged in
+ERROR 06:21:06 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 06:21:06 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  06:23:39 Application started. Press Ctrl+C to shut down.
+INFO  06:23:39 Application started. Press Ctrl+C to shut down.
+INFO  06:23:39 Hosting environment: Development
+INFO  06:23:39 Hosting environment: Development
+INFO  06:23:39 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  06:23:39 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  06:23:46 User Login Initiated
+INFO  06:23:53 User Login Initiated
+INFO  06:23:53 Ganesh successfully logged in
+INFO  06:23:59 Ganesh requested all menuitems
+INFO  06:24:00 Ganesh Successfully got all menuitems
+INFO  06:37:56 Application started. Press Ctrl+C to shut down.
+INFO  06:37:56 Application started. Press Ctrl+C to shut down.
+INFO  06:37:56 Hosting environment: Development
+INFO  06:37:56 Hosting environment: Development
+INFO  06:37:56 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  06:37:56 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  06:38:08 User Login Initiated
+INFO  06:38:09 Ganesh successfully logged in
+INFO  06:38:13 Ganesh requested all menuitems
+INFO  06:38:14 Ganesh Successfully got all menuitems
+INFO  10:00:12 Application started. Press Ctrl+C to shut down.
+INFO  10:00:12 Application started. Press Ctrl+C to shut down.
+INFO  10:00:12 Hosting environment: Development
+INFO  10:00:12 Hosting environment: Development
+INFO  10:00:12 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:00:12 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:02:21 User Login Initiated
+INFO  10:02:28 User Login Initiated
+INFO  10:02:28 Ganesh successfully logged in
+INFO  10:02:28 Ganesh requested all menuitems
+INFO  10:02:29 Ganesh Successfully got all menuitems
+INFO  10:02:46 Ganesh requested all menuitems
+INFO  10:02:46 Ganesh Successfully got all menuitems
+INFO  10:02:49 Ganesh requested all menuitems
+INFO  10:02:49 Ganesh Successfully got all menuitems
+INFO  10:02:58  Successfully logged out
+INFO  10:03:29 User Login Initiated
+INFO  10:03:29 Deepak successfully logged in
+INFO  10:03:29 Deepak requested all menuitems
+INFO  10:03:30 Deepak Successfully got all menuitems
+INFO  10:07:44 Application started. Press Ctrl+C to shut down.
+INFO  10:07:44 Application started. Press Ctrl+C to shut down.
+INFO  10:07:44 Hosting environment: Development
+INFO  10:07:44 Hosting environment: Development
+INFO  10:07:44 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:07:44 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:08:00 User Login Initiated
+INFO  10:08:01 Ganesh successfully logged in
+INFO  10:08:01 Ganesh requested all menuitems
+INFO  10:08:02 Ganesh Successfully got all menuitems
+ERROR 10:08:02 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No service for type 'Microsoft.AspNetCore.Http.IHttpContextAccessor' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.<>c__DisplayClass8_0.<CreateActivateInfo>b__1(ViewContext context)
+   at Microsoft.Extensions.Internal.PropertyActivator`1.Activate(Object instance, TContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPageActivator.Activate(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 10:08:02 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No service for type 'Microsoft.AspNetCore.Http.IHttpContextAccessor' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.<>c__DisplayClass8_0.<CreateActivateInfo>b__1(ViewContext context)
+   at Microsoft.Extensions.Internal.PropertyActivator`1.Activate(Object instance, TContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPagePropertyActivator.Activate(Object page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPageActivator.Activate(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  10:09:27 Application started. Press Ctrl+C to shut down.
+INFO  10:09:27 Application started. Press Ctrl+C to shut down.
+INFO  10:09:27 Hosting environment: Development
+INFO  10:09:27 Hosting environment: Development
+INFO  10:09:27 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:09:27 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:09:37 User Login Initiated
+INFO  10:09:38 Ganesh successfully logged in
+INFO  10:09:38 Ganesh requested all menuitems
+INFO  10:09:39 Ganesh Successfully got all menuitems
+INFO  10:10:45 Application started. Press Ctrl+C to shut down.
+INFO  10:10:45 Application started. Press Ctrl+C to shut down.
+INFO  10:10:45 Hosting environment: Development
+INFO  10:10:45 Hosting environment: Development
+INFO  10:10:45 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:10:45 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:11:00 User Login Initiated
+INFO  10:11:01 Ganesh successfully logged in
+INFO  10:12:42 Application started. Press Ctrl+C to shut down.
+INFO  10:12:42 Application started. Press Ctrl+C to shut down.
+INFO  10:12:42 Hosting environment: Development
+INFO  10:12:42 Hosting environment: Development
+INFO  10:12:42 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:12:42 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:12:52 User Login Initiated
+INFO  10:14:19 Application started. Press Ctrl+C to shut down.
+INFO  10:14:19 Application started. Press Ctrl+C to shut down.
+INFO  10:14:19 Hosting environment: Development
+INFO  10:14:19 Hosting environment: Development
+INFO  10:14:19 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:14:19 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:14:27 User Login Initiated
+INFO  10:14:38 Ganesh successfully logged in
+INFO  10:32:47 Application started. Press Ctrl+C to shut down.
+INFO  10:32:47 Application started. Press Ctrl+C to shut down.
+INFO  10:32:47 Hosting environment: Development
+INFO  10:32:47 Hosting environment: Development
+INFO  10:32:47 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:32:47 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:33:32 User Login Initiated
+INFO  10:39:48 Application started. Press Ctrl+C to shut down.
+INFO  10:39:48 Application started. Press Ctrl+C to shut down.
+INFO  10:39:49 Hosting environment: Development
+INFO  10:39:49 Hosting environment: Development
+INFO  10:39:49 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:39:49 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:40:42 User Login Initiated
+INFO  10:43:02 Ganesh successfully logged in
+INFO  10:45:13 Application started. Press Ctrl+C to shut down.
+INFO  10:45:13 Application started. Press Ctrl+C to shut down.
+INFO  10:45:13 Hosting environment: Development
+INFO  10:45:13 Hosting environment: Development
+INFO  10:45:13 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:45:13 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:45:24 User Login Initiated
+INFO  10:46:10 Application started. Press Ctrl+C to shut down.
+INFO  10:46:10 Application started. Press Ctrl+C to shut down.
+INFO  10:46:10 Hosting environment: Development
+INFO  10:46:10 Hosting environment: Development
+INFO  10:46:10 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:46:10 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:46:27 User Login Initiated
+INFO  10:47:51 Application started. Press Ctrl+C to shut down.
+INFO  10:47:51 Application started. Press Ctrl+C to shut down.
+INFO  10:47:51 Hosting environment: Development
+INFO  10:47:51 Hosting environment: Development
+INFO  10:47:51 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:47:51 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:48:01 User Login Initiated
+INFO  10:49:02 Application started. Press Ctrl+C to shut down.
+INFO  10:49:02 Application started. Press Ctrl+C to shut down.
+INFO  10:49:02 Hosting environment: Development
+INFO  10:49:02 Hosting environment: Development
+INFO  10:49:02 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:49:02 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:49:10 User Login Initiated
+INFO  10:52:39 Application started. Press Ctrl+C to shut down.
+INFO  10:52:39 Application started. Press Ctrl+C to shut down.
+INFO  10:52:39 Hosting environment: Development
+INFO  10:52:39 Hosting environment: Development
+INFO  10:52:39 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:52:39 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:52:48 User Login Initiated
+INFO  10:53:41 Ganesh successfully logged in
+INFO  10:53:41 Ganesh requested all menuitems
+ERROR 10:53:46 An unhandled exception has occurred while executing the request.
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at Client.Controllers.MenuController.Index() in C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client\Controllers\MenuController.cs:line 42
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 10:53:46 An unhandled exception has occurred while executing the request.
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at Client.Controllers.MenuController.Index() in C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client\Controllers\MenuController.cs:line 42
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  10:54:41 Application started. Press Ctrl+C to shut down.
+INFO  10:54:41 Application started. Press Ctrl+C to shut down.
+INFO  10:54:41 Hosting environment: Development
+INFO  10:54:41 Hosting environment: Development
+INFO  10:54:41 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:54:41 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:54:50 User Login Initiated
+INFO  10:54:57 Ganesh successfully logged in
+INFO  10:54:57 Ganesh requested all menuitems
+INFO  10:54:58 Ganesh Successfully got all menuitems
+INFO  10:55:54 Application started. Press Ctrl+C to shut down.
+INFO  10:55:54 Application started. Press Ctrl+C to shut down.
+INFO  10:55:54 Hosting environment: Development
+INFO  10:55:54 Hosting environment: Development
+INFO  10:55:54 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:55:54 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:56:02 User Login Initiated
+INFO  10:56:58 Application started. Press Ctrl+C to shut down.
+INFO  10:56:58 Application started. Press Ctrl+C to shut down.
+INFO  10:56:58 Hosting environment: Development
+INFO  10:56:58 Hosting environment: Development
+INFO  10:56:58 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:56:58 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:57:47 Application started. Press Ctrl+C to shut down.
+INFO  10:57:47 Application started. Press Ctrl+C to shut down.
+INFO  10:57:47 Hosting environment: Development
+INFO  10:57:47 Hosting environment: Development
+INFO  10:57:47 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:57:47 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:57:56 User Login Initiated
+INFO  10:59:57 Application started. Press Ctrl+C to shut down.
+INFO  10:59:57 Application started. Press Ctrl+C to shut down.
+INFO  10:59:57 Hosting environment: Development
+INFO  10:59:57 Hosting environment: Development
+INFO  10:59:57 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  10:59:57 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  11:00:07 User Login Initiated
+INFO  11:00:11 Suresh successfully logged in
+INFO  11:00:11 Suresh requested all menuitems
+INFO  11:00:12 Suresh Successfully got all menuitems
+INFO  11:07:44 Application started. Press Ctrl+C to shut down.
+INFO  11:07:44 Application started. Press Ctrl+C to shut down.
+INFO  11:07:44 Hosting environment: Development
+INFO  11:07:44 Hosting environment: Development
+INFO  11:07:44 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  11:07:44 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  11:08:14 User Login Initiated
+INFO  11:08:17 Deepak successfully logged in
+INFO  11:08:17 Deepak requested all menuitems
+INFO  11:08:18 Deepak Successfully got all menuitems
+INFO  11:25:41 Application started. Press Ctrl+C to shut down.
+INFO  11:25:41 Application started. Press Ctrl+C to shut down.
+INFO  11:25:41 Hosting environment: Development
+INFO  11:25:41 Hosting environment: Development
+INFO  11:25:41 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  11:25:41 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  11:25:56 User Login Initiated
+INFO  11:26:00 Ganesh successfully logged in
+INFO  11:26:00 Ganesh requested all menuitems
+INFO  11:26:01 Ganesh Successfully got all menuitems
+INFO  11:35:00 Application started. Press Ctrl+C to shut down.
+INFO  11:35:00 Application started. Press Ctrl+C to shut down.
+INFO  11:35:00 Hosting environment: Development
+INFO  11:35:00 Hosting environment: Development
+INFO  11:35:00 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  11:35:00 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  11:35:09 User Login Initiated
+INFO  11:35:13 Ganesh successfully logged in
+INFO  11:35:13 Ganesh requested all menuitems
+INFO  11:35:14 Ganesh Successfully got all menuitems
+INFO  11:35:16 Getting cart of user Ganesh
+ERROR 11:35:21 An unhandled exception has occurred while executing the request.
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at Client.Controllers.CartController.Cart() in C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client\Controllers\CartController.cs:line 21
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 11:35:21 An unhandled exception has occurred while executing the request.
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at Client.Controllers.CartController.Cart() in C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client\Controllers\CartController.cs:line 21
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  11:36:18 Application started. Press Ctrl+C to shut down.
+INFO  11:36:18 Application started. Press Ctrl+C to shut down.
+INFO  11:36:18 Hosting environment: Development
+INFO  11:36:18 Hosting environment: Development
+INFO  11:36:18 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  11:36:18 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  11:37:00 User Login Initiated
+INFO  11:37:07 Ganesh successfully logged in
+INFO  11:37:07 Ganesh requested all menuitems
+INFO  11:37:08 Ganesh Successfully got all menuitems
+INFO  11:37:10 Getting cart of user Ganesh
+ERROR 11:37:11 The view 'Cart' was not found. Searched locations: /Views/Cart/Cart.cshtml, /Views/Shared/Cart.cshtml
+ERROR 11:37:11 The view 'Cart' was not found. Searched locations: /Views/Cart/Cart.cshtml, /Views/Shared/Cart.cshtml
+ERROR 11:37:11 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'Cart' was not found. The following locations were searched:
+/Views/Cart/Cart.cshtml
+/Views/Shared/Cart.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 11:37:11 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'Cart' was not found. The following locations were searched:
+/Views/Cart/Cart.cshtml
+/Views/Shared/Cart.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  11:48:21 Application started. Press Ctrl+C to shut down.
+INFO  11:48:21 Application started. Press Ctrl+C to shut down.
+INFO  11:48:21 Hosting environment: Development
+INFO  11:48:21 Hosting environment: Development
+INFO  11:48:21 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  11:48:21 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  11:49:34 User Login Initiated
+INFO  11:49:35 Ganesh successfully logged in
+INFO  11:49:35 Ganesh requested all menuitems
+INFO  11:49:36 Ganesh Successfully got all menuitems
+INFO  11:49:38 Getting cart of user Ganesh
+INFO  11:49:54  Successfully logged out
+INFO  11:50:12 User Login Initiated
+INFO  11:50:12 Deepak successfully logged in
+INFO  11:50:12 Deepak requested all menuitems
+INFO  11:50:12 Deepak Successfully got all menuitems
+INFO  11:50:14 Getting cart of user Deepak
+INFO  11:52:57 Application started. Press Ctrl+C to shut down.
+INFO  11:52:57 Application started. Press Ctrl+C to shut down.
+INFO  11:52:57 Hosting environment: Development
+INFO  11:52:57 Hosting environment: Development
+INFO  11:52:57 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  11:52:57 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  11:53:08 User Login Initiated
+INFO  11:53:09 Suresh successfully logged in
+INFO  11:53:09 Suresh requested all menuitems
+INFO  11:53:10 Suresh Successfully got all menuitems
+INFO  11:53:13 Getting cart of user Suresh
+INFO  12:03:22 Application started. Press Ctrl+C to shut down.
+INFO  12:03:22 Application started. Press Ctrl+C to shut down.
+INFO  12:03:22 Hosting environment: Development
+INFO  12:03:22 Hosting environment: Development
+INFO  12:03:22 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  12:03:22 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  12:03:35 User Login Initiated
+INFO  12:03:37 Deepak successfully logged in
+INFO  12:03:37 Deepak requested all menuitems
+INFO  12:08:54 Application started. Press Ctrl+C to shut down.
+INFO  12:08:54 Application started. Press Ctrl+C to shut down.
+INFO  12:08:54 Hosting environment: Development
+INFO  12:08:54 Hosting environment: Development
+INFO  12:08:54 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  12:08:54 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  12:09:06 User Login Initiated
+INFO  12:09:07 Ganesh successfully logged in
+INFO  12:09:07 Ganesh requested all menuitems
+INFO  12:10:37 Application started. Press Ctrl+C to shut down.
+INFO  12:10:37 Application started. Press Ctrl+C to shut down.
+INFO  12:10:37 Hosting environment: Development
+INFO  12:10:37 Hosting environment: Development
+INFO  12:10:37 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  12:10:37 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  12:11:43 User Login Initiated
+INFO  12:11:44 Ganesh successfully logged in
+INFO  12:11:44 Ganesh requested all menuitems
+INFO  12:14:43 Application started. Press Ctrl+C to shut down.
+INFO  12:14:43 Application started. Press Ctrl+C to shut down.
+INFO  12:14:43 Hosting environment: Development
+INFO  12:14:43 Hosting environment: Development
+INFO  12:14:43 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  12:14:43 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  12:14:58 User Login Initiated
+INFO  12:14:59 Deepak successfully logged in
+INFO  12:14:59 Deepak requested all menuitems
+INFO  12:15:00 Deepak Successfully got all menuitems
+INFO  12:15:03 Deepak requested all menuitems
+INFO  12:15:03 Deepak Successfully got all menuitems
+INFO  12:15:05 Deepak requested all menuitems
+INFO  12:15:05 Deepak Successfully got all menuitems
+INFO  12:15:07 Getting cart of user Deepak
+INFO  12:15:14  Successfully logged out
+INFO  12:15:20 token not found
+INFO  12:15:26 token not found
+INFO  01:36:25 Application started. Press Ctrl+C to shut down.
+INFO  01:36:25 Application started. Press Ctrl+C to shut down.
+INFO  01:36:25 Hosting environment: Development
+INFO  01:36:25 Hosting environment: Development
+INFO  01:36:25 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  01:36:25 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  01:36:39 User Login Initiated
+INFO  01:36:41 Ganesh successfully logged in
+INFO  01:36:41 Ganesh requested all menuitems
+INFO  01:36:41 Ganesh Successfully got all menuitems
+INFO  02:22:54 Application started. Press Ctrl+C to shut down.
+INFO  02:22:54 Application started. Press Ctrl+C to shut down.
+INFO  02:22:54 Hosting environment: Development
+INFO  02:22:54 Hosting environment: Development
+INFO  02:22:54 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:22:54 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:23:15 User Login Initiated
+INFO  02:23:17 Ganesh successfully logged in
+INFO  02:23:17 Ganesh requested all menuitems
+INFO  02:23:17 Ganesh Successfully got all menuitems
+INFO  02:24:43 Application started. Press Ctrl+C to shut down.
+INFO  02:24:43 Application started. Press Ctrl+C to shut down.
+INFO  02:24:43 Hosting environment: Development
+INFO  02:24:43 Hosting environment: Development
+INFO  02:24:43 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:24:43 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:25:08 User Login Initiated
+INFO  02:25:10 Ganesh successfully logged in
+INFO  02:25:10 Ganesh requested all menuitems
+INFO  02:25:10 Ganesh Successfully got all menuitems
+INFO  02:25:14 Getting cart of user Ganesh
+INFO  02:25:15 User has 2 items in his cart
+INFO  02:25:17 Ganesh requested all menuitems
+INFO  02:25:17 Ganesh Successfully got all menuitems
+INFO  02:25:30 Getting cart of user Ganesh
+INFO  02:25:31 User has 2 items in his cart
+INFO  02:25:33 Ganesh requested all menuitems
+INFO  02:25:33 Ganesh Successfully got all menuitems
+INFO  02:33:32 Application started. Press Ctrl+C to shut down.
+INFO  02:33:32 Application started. Press Ctrl+C to shut down.
+INFO  02:33:32 Hosting environment: Development
+INFO  02:33:32 Hosting environment: Development
+INFO  02:33:32 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:33:32 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:34:10 User Login Initiated
+INFO  02:34:12 Deepak successfully logged in
+INFO  02:34:12 Deepak requested all menuitems
+INFO  02:34:13 Deepak Successfully got all menuitems
+INFO  02:34:16 Getting cart of user Deepak
+INFO  02:34:17 User has 3 items in his cart
+INFO  02:34:19 Deepak requested all menuitems
+INFO  02:34:19 Deepak Successfully got all menuitems
+INFO  02:34:24 Deepak requested all menuitems
+INFO  02:34:24 Deepak Successfully got all menuitems
+INFO  02:38:35 Application started. Press Ctrl+C to shut down.
+INFO  02:38:35 Application started. Press Ctrl+C to shut down.
+INFO  02:38:35 Hosting environment: Development
+INFO  02:38:35 Hosting environment: Development
+INFO  02:38:35 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:38:35 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:38:51 User Login Initiated
+INFO  02:38:52 Deepak successfully logged in
+INFO  02:38:52 Deepak requested all menuitems
+INFO  02:38:53 Deepak Successfully got all menuitems
+INFO  02:38:56 Getting cart of user Deepak
+INFO  02:38:57 User has 3 items in his cart
+INFO  02:39:00 Deepak requested all menuitems
+INFO  02:39:00 Deepak Successfully got all menuitems
+INFO  02:41:24 Application started. Press Ctrl+C to shut down.
+INFO  02:41:24 Application started. Press Ctrl+C to shut down.
+INFO  02:41:24 Hosting environment: Development
+INFO  02:41:24 Hosting environment: Development
+INFO  02:41:24 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:41:24 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:41:49 User Login Initiated
+INFO  02:41:51 Deepak successfully logged in
+INFO  02:41:51 Deepak requested all menuitems
+INFO  02:41:51 Deepak Successfully got all menuitems
+INFO  02:43:51 Application started. Press Ctrl+C to shut down.
+INFO  02:43:51 Application started. Press Ctrl+C to shut down.
+INFO  02:43:51 Hosting environment: Development
+INFO  02:43:51 Hosting environment: Development
+INFO  02:43:51 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:43:51 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:46:11 Application started. Press Ctrl+C to shut down.
+INFO  02:46:11 Application started. Press Ctrl+C to shut down.
+INFO  02:46:11 Hosting environment: Development
+INFO  02:46:11 Hosting environment: Development
+INFO  02:46:11 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:46:11 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:47:56 Application started. Press Ctrl+C to shut down.
+INFO  02:47:56 Application started. Press Ctrl+C to shut down.
+INFO  02:47:56 Hosting environment: Development
+INFO  02:47:56 Hosting environment: Development
+INFO  02:47:56 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:47:56 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:49:08 User Login Initiated
+INFO  02:49:09 Deepak successfully logged in
+INFO  02:49:10 Deepak requested all menuitems
+INFO  02:49:10 Deepak Successfully got all menuitems
+INFO  02:50:47 Application started. Press Ctrl+C to shut down.
+INFO  02:50:47 Application started. Press Ctrl+C to shut down.
+INFO  02:50:47 Hosting environment: Development
+INFO  02:50:47 Hosting environment: Development
+INFO  02:50:47 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:50:47 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:50:58 User Login Initiated
+INFO  02:50:59 Deepak successfully logged in
+INFO  02:50:59 Deepak requested all menuitems
+INFO  02:51:00 Deepak Successfully got all menuitems
+INFO  02:51:11 Deepak requested all menuitems
+INFO  02:51:11 Deepak Successfully got all menuitems
+INFO  02:52:31  Successfully logged out
+INFO  02:52:34 User Login Initiated
+INFO  02:52:43 token not found
+INFO  02:56:51 Application started. Press Ctrl+C to shut down.
+INFO  02:56:51 Application started. Press Ctrl+C to shut down.
+INFO  02:56:51 Hosting environment: Development
+INFO  02:56:51 Hosting environment: Development
+INFO  02:56:51 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:56:51 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:57:02 User Login Initiated
+INFO  02:57:03 Ganesh successfully logged in
+INFO  02:57:03 Ganesh requested all menuitems
+INFO  02:57:04 Ganesh Successfully got all menuitems
+INFO  02:58:35 Application started. Press Ctrl+C to shut down.
+INFO  02:58:35 Application started. Press Ctrl+C to shut down.
+INFO  02:58:35 Hosting environment: Development
+INFO  02:58:35 Hosting environment: Development
+INFO  02:58:35 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:58:35 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:58:45 User Login Initiated
+INFO  02:58:46 Deepak successfully logged in
+INFO  02:58:46 Deepak requested all menuitems
+INFO  02:58:47 Deepak Successfully got all menuitems
+INFO  02:58:49 Getting cart of user Deepak
+INFO  02:58:50 User has 3 items in his cart
+INFO  02:58:59 Deepak requested all menuitems
+INFO  02:58:59 Deepak Successfully got all menuitems
+INFO  02:59:03 Getting cart of user Deepak
+INFO  02:59:03 User has 3 items in his cart
+INFO  02:59:10 Deepak requested all menuitems
+INFO  02:59:10 Deepak Successfully got all menuitems
+INFO  02:59:15 Getting cart of user Deepak
+INFO  02:59:16 User has 3 items in his cart
+INFO  02:59:23 Deepak requested all menuitems
+INFO  02:59:23 Deepak Successfully got all menuitems
+INFO  02:59:25 Getting cart of user Deepak
+INFO  02:59:25 User has 3 items in his cart
+INFO  03:00:20 Application started. Press Ctrl+C to shut down.
+INFO  03:00:20 Application started. Press Ctrl+C to shut down.
+INFO  03:00:20 Hosting environment: Development
+INFO  03:00:20 Hosting environment: Development
+INFO  03:00:20 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:00:20 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:00:45 User Login Initiated
+INFO  03:00:46 Deepak successfully logged in
+INFO  03:00:47 Deepak requested all menuitems
+INFO  03:00:47 Deepak Successfully got all menuitems
+INFO  03:00:51 Getting cart of user Deepak
+INFO  03:00:51 User has 3 items in his cart
+INFO  03:01:13 Deepak requested all menuitems
+INFO  03:01:13 Deepak Successfully got all menuitems
+INFO  03:03:03 Application started. Press Ctrl+C to shut down.
+INFO  03:03:03 Application started. Press Ctrl+C to shut down.
+INFO  03:03:03 Hosting environment: Development
+INFO  03:03:03 Hosting environment: Development
+INFO  03:03:03 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:03:03 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:03:26 User Login Initiated
+INFO  03:03:27 Deepak successfully logged in
+INFO  03:03:27 Deepak requested all menuitems
+INFO  03:03:28 Deepak Successfully got all menuitems
+INFO  03:06:16 Application started. Press Ctrl+C to shut down.
+INFO  03:06:16 Application started. Press Ctrl+C to shut down.
+INFO  03:06:16 Hosting environment: Development
+INFO  03:06:16 Hosting environment: Development
+INFO  03:06:16 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:06:16 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:06:31 User Login Initiated
+INFO  03:06:32 Deepak successfully logged in
+INFO  03:06:32 Deepak requested all menuitems
+INFO  03:06:33 Deepak Successfully got all menuitems
+INFO  03:06:44 Getting cart of user Deepak
+INFO  03:06:45 User has 3 items in his cart
+INFO  03:13:07 Application started. Press Ctrl+C to shut down.
+INFO  03:13:07 Application started. Press Ctrl+C to shut down.
+INFO  03:13:07 Hosting environment: Development
+INFO  03:13:07 Hosting environment: Development
+INFO  03:13:07 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:13:07 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:13:19 User Login Initiated
+INFO  03:13:20 Deepak successfully logged in
+INFO  03:13:21 Deepak requested all menuitems
+INFO  03:13:21 Deepak Successfully got all menuitems
+INFO  03:13:24 Deepak requested all menuitems
+INFO  03:13:24 Deepak Successfully got all menuitems
+INFO  03:13:29 Deepak requested all menuitems
+INFO  03:13:29 Deepak Successfully got all menuitems
+INFO  03:13:32 Getting cart of user Deepak
+INFO  03:13:33 User has 3 items in his cart
+INFO  03:13:36 Deepak requested all menuitems
+INFO  03:13:36 Deepak Successfully got all menuitems
+INFO  03:14:16 Deepak requested all menuitems
+INFO  03:14:16 Deepak Successfully got all menuitems
+INFO  03:14:51 Deepak requested all menuitems
+INFO  03:14:51 Deepak Successfully got all menuitems
+INFO  03:14:54 Deepak requested all menuitems
+INFO  03:14:54 Deepak Successfully got all menuitems
+INFO  03:14:58  Successfully logged out
+INFO  03:16:44 Application started. Press Ctrl+C to shut down.
+INFO  03:16:44 Application started. Press Ctrl+C to shut down.
+INFO  03:16:44 Hosting environment: Development
+INFO  03:16:44 Hosting environment: Development
+INFO  03:16:44 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:16:44 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:17:13 User Login Initiated
+INFO  03:17:15 Deepak successfully logged in
+INFO  03:17:15 Deepak requested all menuitems
+INFO  03:17:15 Deepak Successfully got all menuitems
+INFO  03:17:19 Deepak requested all menuitems
+INFO  03:17:19 Deepak Successfully got all menuitems
+INFO  03:17:20 Deepak requested all menuitems
+INFO  03:17:20 Deepak Successfully got all menuitems
+INFO  03:17:21 Deepak requested all menuitems
+INFO  03:17:21 Deepak Successfully got all menuitems
+INFO  03:17:24 Deepak requested all menuitems
+INFO  03:17:24 Deepak Successfully got all menuitems
+INFO  03:17:25 Deepak requested all menuitems
+INFO  03:17:25 Deepak Successfully got all menuitems
+INFO  03:18:04 Application started. Press Ctrl+C to shut down.
+INFO  03:18:04 Application started. Press Ctrl+C to shut down.
+INFO  03:18:04 Hosting environment: Development
+INFO  03:18:04 Hosting environment: Development
+INFO  03:18:04 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:18:04 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:18:13 User Login Initiated
+INFO  03:18:14 Ganesh successfully logged in
+INFO  03:18:14 Ganesh requested all menuitems
+INFO  03:18:15 Ganesh Successfully got all menuitems
+INFO  03:18:18 Getting cart of user Ganesh
+INFO  03:18:19 User has 2 items in his cart
+INFO  03:18:23 Ganesh requested all menuitems
+INFO  03:18:23 Ganesh Successfully got all menuitems
+INFO  03:18:25  Successfully logged out
+INFO  03:25:42 Application started. Press Ctrl+C to shut down.
+INFO  03:25:42 Application started. Press Ctrl+C to shut down.
+INFO  03:25:42 Hosting environment: Development
+INFO  03:25:42 Hosting environment: Development
+INFO  03:25:42 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:25:42 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:26:18 User Login Initiated
+INFO  03:26:19 Deepak successfully logged in
+INFO  03:26:19 Deepak requested all menuitems
+INFO  03:26:20 Deepak Successfully got all menuitems
+INFO  03:26:23 Deepak requested all menuitems
+INFO  03:26:23 Deepak Successfully got all menuitems
+INFO  03:26:25 Deepak requested all menuitems
+INFO  03:26:25 Deepak Successfully got all menuitems
+INFO  03:26:26 Deepak requested all menuitems
+INFO  03:26:26 Deepak Successfully got all menuitems
+INFO  03:26:27 Deepak requested all menuitems
+INFO  03:26:27 Deepak Successfully got all menuitems
+INFO  03:26:29 Deepak requested all menuitems
+INFO  03:26:29 Deepak Successfully got all menuitems
+INFO  03:26:30 Deepak requested all menuitems
+INFO  03:26:30 Deepak Successfully got all menuitems
+INFO  03:26:31 Deepak requested all menuitems
+INFO  03:26:31 Deepak Successfully got all menuitems
+INFO  03:26:32 Getting cart of user Deepak
+INFO  03:26:33 User has 3 items in his cart
+INFO  03:26:36 Deepak requested all menuitems
+INFO  03:26:36 Deepak Successfully got all menuitems
+INFO  03:26:38 Getting cart of user Deepak
+INFO  03:26:38 User has 3 items in his cart
+INFO  03:26:41 Deepak requested all menuitems
+INFO  03:26:41 Deepak Successfully got all menuitems
+INFO  03:26:44 Deepak requested all menuitems
+INFO  03:26:44 Deepak Successfully got all menuitems
+INFO  03:26:47 Deepak requested all menuitems
+INFO  03:26:47 Deepak Successfully got all menuitems
+INFO  03:31:13 Application started. Press Ctrl+C to shut down.
+INFO  03:31:13 Application started. Press Ctrl+C to shut down.
+INFO  03:31:13 Hosting environment: Development
+INFO  03:31:13 Hosting environment: Development
+INFO  03:31:13 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:31:13 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:32:12 User Login Initiated
+INFO  03:32:13 Deepak successfully logged in
+INFO  03:32:13 Deepak requested all menuitems
+INFO  03:32:14 Deepak Successfully got all menuitems
+INFO  03:32:44 Deepak requested all menuitems
+INFO  03:32:44 Deepak Successfully got all menuitems
+INFO  03:32:54 Deepak requested all menuitems
+INFO  03:32:54 Deepak Successfully got all menuitems
+INFO  03:32:56 Getting cart of user Deepak
+INFO  03:32:56 User has 3 items in his cart
+INFO  03:33:02 Deepak requested all menuitems
+INFO  03:33:02 Deepak Successfully got all menuitems
+INFO  03:37:22 Application started. Press Ctrl+C to shut down.
+INFO  03:37:22 Application started. Press Ctrl+C to shut down.
+INFO  03:37:22 Hosting environment: Development
+INFO  03:37:22 Hosting environment: Development
+INFO  03:37:22 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:37:22 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:42:14 Application started. Press Ctrl+C to shut down.
+INFO  03:42:14 Application started. Press Ctrl+C to shut down.
+INFO  03:42:14 Hosting environment: Development
+INFO  03:42:14 Hosting environment: Development
+INFO  03:42:14 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:42:14 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:42:25 User Login Initiated
+INFO  03:42:26 Deepak successfully logged in
+INFO  03:42:26 Deepak requested all menuitems
+INFO  03:42:27 Deepak Successfully got all menuitems
+INFO  03:42:36 Error in adding Maggie to cart
+INFO  03:42:36 Deepak requested all menuitems
+INFO  03:42:37 Deepak Successfully got all menuitems
+INFO  03:42:41 Getting cart of user Deepak
+INFO  03:42:42 User has 3 items in his cart
+INFO  03:42:44 Deepak requested all menuitems
+INFO  03:42:44 Deepak Successfully got all menuitems
+INFO  04:27:05 Application started. Press Ctrl+C to shut down.
+INFO  04:27:05 Application started. Press Ctrl+C to shut down.
+INFO  04:27:05 Hosting environment: Development
+INFO  04:27:05 Hosting environment: Development
+INFO  04:27:05 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  04:27:05 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  04:27:14 User Login Initiated
+INFO  04:27:16 Deepak successfully logged in
+INFO  04:27:16 Deepak requested all menuitems
+INFO  04:27:17 Deepak Successfully got all menuitems
+INFO  04:29:56 Application started. Press Ctrl+C to shut down.
+INFO  04:29:56 Application started. Press Ctrl+C to shut down.
+INFO  04:29:57 Hosting environment: Development
+INFO  04:29:57 Hosting environment: Development
+INFO  04:29:57 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  04:29:57 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  04:30:09 User Login Initiated
+INFO  04:30:10 Deepak successfully logged in
+INFO  04:30:10 Deepak requested all menuitems
+INFO  04:30:11 Deepak Successfully got all menuitems
+INFO  04:31:00 Successfully added Maggie to cart of user Deepak
+INFO  04:31:00 Deepak requested all menuitems
+INFO  04:31:00 Deepak Successfully got all menuitems
+INFO  04:31:13 Getting cart of user Deepak
+INFO  04:31:17 User has 3 items in his cart
+INFO  04:31:21 Getting cart of user Deepak
+INFO  04:31:21 User has 3 items in his cart
+INFO  04:31:22 Deepak requested all menuitems
+INFO  04:31:22 Deepak Successfully got all menuitems
+ERROR 04:33:37 An unhandled exception has occurred while executing the request.
+System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.GetResult(Int16 token)
+   at System.Net.Security.SslStream.<FillBufferAsync>g__InternalFillBufferAsync|215_0[TReadAdapter](TReadAdapter adap, ValueTask`1 task, Int32 min, Int32 initial)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TReadAdapter](TReadAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.FillAsync()
+   at System.Net.Http.HttpConnection.ReadNextResponseHeaderLineAsync(Boolean foldedHeadersAllowed)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithNtConnectionAuthAsync(HttpConnection connection, HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at Client.Controllers.CartController.AddToCart(Int32 id) in C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client\Controllers\CartController.cs:line 101
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 04:33:37 An unhandled exception has occurred while executing the request.
+System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.GetResult(Int16 token)
+   at System.Net.Security.SslStream.<FillBufferAsync>g__InternalFillBufferAsync|215_0[TReadAdapter](TReadAdapter adap, ValueTask`1 task, Int32 min, Int32 initial)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TReadAdapter](TReadAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.FillAsync()
+   at System.Net.Http.HttpConnection.ReadNextResponseHeaderLineAsync(Boolean foldedHeadersAllowed)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithNtConnectionAuthAsync(HttpConnection connection, HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at Client.Controllers.CartController.AddToCart(Int32 id) in C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client\Controllers\CartController.cs:line 101
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  04:35:59 Application started. Press Ctrl+C to shut down.
+INFO  04:35:59 Application started. Press Ctrl+C to shut down.
+INFO  04:35:59 Hosting environment: Development
+INFO  04:35:59 Hosting environment: Development
+INFO  04:35:59 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  04:35:59 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  04:36:10 User Login Initiated
+INFO  04:36:11 Deepak successfully logged in
+INFO  04:36:11 Deepak requested all menuitems
+INFO  04:36:12 Deepak Successfully got all menuitems
+INFO  04:36:34 Successfully added Maggie to cart of user Deepak
+INFO  04:36:41 Deepak requested all menuitems
+INFO  04:36:52 Deepak Successfully got all menuitems
+INFO  04:37:02 Getting cart of user Deepak
+INFO  04:37:02 User has 3 items in his cart
+INFO  04:37:05 Deepak requested all menuitems
+INFO  04:37:05 Deepak Successfully got all menuitems
+INFO  04:37:08 Getting cart of user Deepak
+INFO  04:37:08 User has 3 items in his cart
+INFO  04:37:13 Deepak requested all menuitems
+INFO  04:37:13 Deepak Successfully got all menuitems
+INFO  04:37:16 Getting cart of user Deepak
+INFO  04:37:16 User has 3 items in his cart
+INFO  04:37:19 Deepak requested all menuitems
+INFO  04:37:19 Deepak Successfully got all menuitems
+INFO  04:37:40 Successfully added Maggie to cart of user Deepak
+INFO  04:39:33 Application started. Press Ctrl+C to shut down.
+INFO  04:39:33 Application started. Press Ctrl+C to shut down.
+INFO  04:39:33 Hosting environment: Development
+INFO  04:39:33 Hosting environment: Development
+INFO  04:39:33 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  04:39:33 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  04:39:47 User Login Initiated
+INFO  04:39:48 Deepak successfully logged in
+INFO  04:39:48 Deepak requested all menuitems
+INFO  04:39:49 Deepak Successfully got all menuitems
+INFO  04:40:06 Successfully added Maggie to cart of user Deepak
+INFO  04:40:11 Getting cart of user Deepak
+INFO  04:40:12 User has 3 items in his cart
+INFO  04:41:18 Application started. Press Ctrl+C to shut down.
+INFO  04:41:18 Application started. Press Ctrl+C to shut down.
+INFO  04:41:18 Hosting environment: Development
+INFO  04:41:18 Hosting environment: Development
+INFO  04:41:18 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  04:41:18 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  04:41:38 User Login Initiated
+INFO  04:41:39 Deepak successfully logged in
+INFO  04:41:40 Deepak requested all menuitems
+INFO  04:41:40 Deepak Successfully got all menuitems
+ERROR 04:44:14 An unhandled exception has occurred while executing the request.
+System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.GetResult(Int16 token)
+   at System.Net.Security.SslStream.<FillBufferAsync>g__InternalFillBufferAsync|215_0[TReadAdapter](TReadAdapter adap, ValueTask`1 task, Int32 min, Int32 initial)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TReadAdapter](TReadAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.FillAsync()
+   at System.Net.Http.HttpConnection.ReadNextResponseHeaderLineAsync(Boolean foldedHeadersAllowed)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithNtConnectionAuthAsync(HttpConnection connection, HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at Client.Controllers.CartController.AddToCart(Int32 id) in C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client\Controllers\CartController.cs:line 101
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 04:44:14 An unhandled exception has occurred while executing the request.
+System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.GetResult(Int16 token)
+   at System.Net.Security.SslStream.<FillBufferAsync>g__InternalFillBufferAsync|215_0[TReadAdapter](TReadAdapter adap, ValueTask`1 task, Int32 min, Int32 initial)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TReadAdapter](TReadAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.FillAsync()
+   at System.Net.Http.HttpConnection.ReadNextResponseHeaderLineAsync(Boolean foldedHeadersAllowed)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithNtConnectionAuthAsync(HttpConnection connection, HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at Client.Controllers.CartController.AddToCart(Int32 id) in C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client\Controllers\CartController.cs:line 101
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  04:45:06 User Login Initiated
+INFO  04:45:06 Deepak successfully logged in
+INFO  04:45:06 Deepak requested all menuitems
+INFO  04:45:06 Deepak Successfully got all menuitems
+INFO  04:48:44 Application started. Press Ctrl+C to shut down.
+INFO  04:48:44 Application started. Press Ctrl+C to shut down.
+INFO  04:48:44 Hosting environment: Development
+INFO  04:48:44 Hosting environment: Development
+INFO  04:48:44 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  04:48:44 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  04:49:01 User Login Initiated
+INFO  04:49:03 Deepak successfully logged in
+INFO  04:49:03 Deepak requested all menuitems
+INFO  04:49:04 Deepak Successfully got all menuitems
+INFO  04:49:18 Successfully added Maggie to cart of user Deepak
+INFO  04:49:18 Getting cart of user Deepak
+INFO  04:49:18 User has 4 items in his cart
+INFO  04:49:23 Getting cart of user Deepak
+INFO  04:49:23 User has 4 items in his cart
+INFO  04:49:27 Deepak requested all menuitems
+INFO  04:49:27 Deepak Successfully got all menuitems
+INFO  04:49:35 Successfully added Chicken Biryani to cart of user Deepak
+INFO  04:49:35 Getting cart of user Deepak
+INFO  04:49:35 User has 5 items in his cart
+INFO  04:49:44  Successfully logged out
+INFO  05:36:15 Application started. Press Ctrl+C to shut down.
+INFO  05:36:15 Application started. Press Ctrl+C to shut down.
+INFO  05:36:15 Hosting environment: Development
+INFO  05:36:15 Hosting environment: Development
+INFO  05:36:15 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  05:36:15 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  05:36:45 User Login Initiated
+INFO  05:36:46 Ganesh successfully logged in
+INFO  05:36:46 Ganesh requested all menuitems
+INFO  05:36:47 Ganesh Successfully got all menuitems
+INFO  05:36:51 Getting cart of user Ganesh
+INFO  05:36:52 User has 2 items in his cart
+INFO  05:37:01 Ganesh requested all menuitems
+INFO  05:37:02 Ganesh Successfully got all menuitems
+INFO  05:37:08 Successfully added Chicken Biryani to cart of user Ganesh
+INFO  05:37:08 Getting cart of user Ganesh
+INFO  05:37:08 User has 3 items in his cart
+INFO  05:37:16  Successfully logged out
+INFO  05:52:50 Application started. Press Ctrl+C to shut down.
+INFO  05:52:50 Application started. Press Ctrl+C to shut down.
+INFO  05:52:50 Hosting environment: Development
+INFO  05:52:50 Hosting environment: Development
+INFO  05:52:50 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  05:52:50 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  05:53:06 User Login Initiated
+INFO  05:53:18 User Login Initiated
+INFO  05:53:19 Suresh successfully logged in
+INFO  05:53:19 Suresh requested all menuitems
+INFO  05:53:20 Suresh Successfully got all menuitems
+INFO  05:53:22 Getting cart of user Suresh
+INFO  05:53:23 User with id 4 has empty cart
+INFO  05:53:26 Suresh requested all menuitems
+INFO  05:53:26 Suresh Successfully got all menuitems
+INFO  05:53:33 Successfully added Chicken Manchuria to cart of user Suresh
+INFO  05:53:33 Getting cart of user Suresh
+INFO  05:53:33 User has 1 items in his cart
+INFO  05:53:37 Suresh requested all menuitems
+INFO  05:53:37 Suresh Successfully got all menuitems
+INFO  05:53:38 Getting cart of user Suresh
+INFO  05:53:38 User has 1 items in his cart
+INFO  05:53:40 Suresh requested all menuitems
+INFO  05:53:40 Suresh Successfully got all menuitems
+INFO  05:53:46 Successfully added Veg Manchuria to cart of user Suresh
+INFO  05:53:46 Getting cart of user Suresh
+INFO  05:53:46 User has 2 items in his cart
+INFO  05:53:50 Suresh requested all menuitems
+INFO  05:53:50 Suresh Successfully got all menuitems
+INFO  05:53:51 Suresh requested all menuitems
+INFO  05:53:51 Suresh Successfully got all menuitems
+INFO  05:53:53 Getting cart of user Suresh
+INFO  05:53:53 User has 2 items in his cart
+INFO  05:53:57 Suresh requested all menuitems
+INFO  05:53:57 Suresh Successfully got all menuitems
+INFO  05:54:02 Getting cart of user Suresh
+INFO  05:54:02 User has 2 items in his cart
+INFO  05:54:04 Suresh requested all menuitems
+INFO  05:54:04 Suresh Successfully got all menuitems
+INFO  05:54:09 Successfully added Maggie to cart of user Suresh
+INFO  05:54:09 Getting cart of user Suresh
+INFO  05:54:09 User has 3 items in his cart
+INFO  05:54:19  Successfully logged out
+INFO  12:29:49 Application started. Press Ctrl+C to shut down.
+INFO  12:29:49 Application started. Press Ctrl+C to shut down.
+INFO  12:29:49 Hosting environment: Development
+INFO  12:29:49 Hosting environment: Development
+INFO  12:29:49 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  12:29:49 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  12:30:04 User Login Initiated
+INFO  12:30:06 Deepak successfully logged in
+INFO  12:30:06 Deepak requested all menuitems
+INFO  12:30:07 Deepak Successfully got all menuitems
+INFO  12:30:11 Getting cart of user Deepak
+INFO  12:30:12 User has 3 items in his cart
+ERROR 12:30:16 An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+Client.Controllers.CartController.AddToCart (Client)
+Client.Controllers.CartController.DeleteFromCart (Client)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 12:30:16 An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+Client.Controllers.CartController.AddToCart (Client)
+Client.Controllers.CartController.DeleteFromCart (Client)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  12:31:36 Application started. Press Ctrl+C to shut down.
+INFO  12:31:36 Application started. Press Ctrl+C to shut down.
+INFO  12:31:36 Hosting environment: Development
+INFO  12:31:36 Hosting environment: Development
+INFO  12:31:36 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  12:31:36 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  12:32:20 User Login Initiated
+INFO  12:32:21 Deepak successfully logged in
+INFO  12:32:21 Deepak requested all menuitems
+INFO  12:32:22 Deepak Successfully got all menuitems
+INFO  12:32:24 Getting cart of user Deepak
+INFO  12:32:25 User has 3 items in his cart
+INFO  12:32:28 Successfully deleted menuItem with id 2 to cart of user Deepak
+INFO  12:32:28 Getting cart of user Deepak
+INFO  12:32:28 User has 2 items in his cart
+INFO  12:32:31 Successfully deleted menuItem with id 3 to cart of user Deepak
+INFO  12:32:31 Getting cart of user Deepak
+INFO  12:32:31 User has 1 items in his cart
+INFO  12:32:34 Deepak requested all menuitems
+INFO  12:32:34 Deepak Successfully got all menuitems
+INFO  12:32:36 Getting cart of user Deepak
+INFO  12:32:36 User has 1 items in his cart
+INFO  12:32:38 Deepak requested all menuitems
+INFO  12:32:38 Deepak Successfully got all menuitems
+INFO  12:32:47 Successfully added Chicken Biryani to cart of user Deepak
+INFO  12:32:47 Getting cart of user Deepak
+INFO  12:32:47 User has 2 items in his cart
+INFO  12:32:53 Getting cart of user Deepak
+INFO  12:32:53 User has 2 items in his cart
+INFO  12:32:57 Successfully deleted menuItem with id 4 to cart of user Deepak
+INFO  12:32:57 Getting cart of user Deepak
+INFO  12:32:57 User has 1 items in his cart
+INFO  12:33:00 Deepak requested all menuitems
+INFO  12:33:00 Deepak Successfully got all menuitems
+INFO  12:33:08 Successfully added Chicken Manchuria to cart of user Deepak
+INFO  12:33:08 Getting cart of user Deepak
+INFO  12:33:08 User has 2 items in his cart
+INFO  12:42:44 Application started. Press Ctrl+C to shut down.
+INFO  12:42:44 Application started. Press Ctrl+C to shut down.
+INFO  12:42:44 Hosting environment: Development
+INFO  12:42:44 Hosting environment: Development
+INFO  12:42:44 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  12:42:44 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  12:43:05 User Login Initiated
+INFO  12:43:07 Deepak successfully logged in
+INFO  12:43:07 Deepak requested all menuitems
+INFO  12:43:08 Deepak Successfully got all menuitems
+INFO  12:43:15 Successfully added Maggie to cart of user Deepak
+INFO  12:43:15 Getting cart of user Deepak
+INFO  12:43:15 User has 4 items in his cart
+INFO  12:43:21 Successfully deleted menuItem with id 2 to cart of user Deepak
+INFO  12:43:21 Getting cart of user Deepak
+INFO  12:43:21 User has 3 items in his cart
+INFO  12:43:22 Successfully deleted menuItem with id 3 to cart of user Deepak
+INFO  12:43:22 Getting cart of user Deepak
+INFO  12:43:22 User has 2 items in his cart
+INFO  12:45:17 Application started. Press Ctrl+C to shut down.
+INFO  12:45:17 Application started. Press Ctrl+C to shut down.
+INFO  12:45:17 Hosting environment: Development
+INFO  12:45:17 Hosting environment: Development
+INFO  12:45:17 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  12:45:17 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  12:45:35 User Login Initiated
+INFO  12:45:36 Deepak successfully logged in
+INFO  12:45:36 Deepak requested all menuitems
+INFO  12:45:37 Deepak Successfully got all menuitems
+INFO  12:45:46 Successfully added Maggie to cart of user Deepak
+INFO  12:45:46 Getting cart of user Deepak
+INFO  12:45:46 User has 4 items in his cart
+INFO  12:45:50 Deepak requested all menuitems
+INFO  12:45:51 Deepak Successfully got all menuitems
+INFO  12:50:12 Application started. Press Ctrl+C to shut down.
+INFO  12:50:12 Application started. Press Ctrl+C to shut down.
+INFO  12:50:12 Hosting environment: Development
+INFO  12:50:12 Hosting environment: Development
+INFO  12:50:12 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  12:50:12 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  12:50:41 User Login Initiated
+INFO  12:50:49 User Login Initiated
+INFO  12:50:50 Deepak successfully logged in
+INFO  12:50:50 Deepak requested all menuitems
+INFO  12:50:51 Deepak Successfully got all menuitems
+INFO  12:50:58 Successfully added Maggie to cart of user Deepak
+INFO  12:50:58 Getting cart of user Deepak
+INFO  12:50:58 User has 4 items in his cart
+INFO  12:51:02 Successfully deleted menuItem with id 4 to cart of user Deepak
+INFO  12:51:02 Getting cart of user Deepak
+INFO  12:51:02 User has 3 items in his cart
+INFO  12:51:04 Successfully deleted menuItem with id 1 to cart of user Deepak
+INFO  12:51:04 Getting cart of user Deepak
+INFO  12:51:04 User has 2 items in his cart
+INFO  12:51:06  Successfully logged out
+INFO  12:52:46 Application started. Press Ctrl+C to shut down.
+INFO  12:52:46 Application started. Press Ctrl+C to shut down.
+INFO  12:52:46 Hosting environment: Development
+INFO  12:52:46 Hosting environment: Development
+INFO  12:52:46 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  12:52:46 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  12:53:00 User Login Initiated
+INFO  12:53:02 Deepak successfully logged in
+INFO  12:53:02 Deepak requested all menuitems
+INFO  12:53:02 Deepak Successfully got all menuitems
+INFO  12:53:08 Getting cart of user Deepak
+INFO  12:53:09 User has 3 items in his cart
+INFO  12:53:11 Successfully deleted menuItem with id 2 to cart of user Deepak
+INFO  12:53:11 Getting cart of user Deepak
+INFO  12:53:11 User has 2 items in his cart
+INFO  12:53:13 Successfully deleted menuItem with id 3 to cart of user Deepak
+INFO  12:53:13 Getting cart of user Deepak
+INFO  12:53:13 User has 1 items in his cart
+INFO  12:53:16 Deepak requested all menuitems
+INFO  12:53:16 Deepak Successfully got all menuitems
+INFO  12:53:21 Successfully added Chicken Manchuria to cart of user Deepak
+INFO  12:53:21 Getting cart of user Deepak
+INFO  12:53:21 User has 2 items in his cart
+INFO  12:53:48 Successfully deleted menuItem with id 4 to cart of user Deepak
+INFO  12:53:48 Getting cart of user Deepak
+INFO  12:53:48 User has 1 items in his cart
+INFO  12:53:52 Deepak requested all menuitems
+INFO  12:53:52 Deepak Successfully got all menuitems
+INFO  12:54:01 Successfully added Chicken Biryani to cart of user Deepak
+INFO  12:54:01 Getting cart of user Deepak
+INFO  12:54:01 User has 2 items in his cart
+INFO  12:54:04 Deepak requested all menuitems
+INFO  12:54:04 Deepak Successfully got all menuitems
+INFO  12:54:07 Successfully added Chicken Biryani to cart of user Deepak
+INFO  12:54:07 Getting cart of user Deepak
+INFO  12:54:07 User has 3 items in his cart
+INFO  12:54:11 Successfully deleted menuItem with id 3 to cart of user Deepak
+INFO  12:54:11 Getting cart of user Deepak
+INFO  12:54:11 User has 2 items in his cart
+INFO  12:54:14 Successfully deleted menuItem with id 2 to cart of user Deepak
+INFO  12:54:14 Getting cart of user Deepak
+INFO  12:54:14 User has 1 items in his cart
+INFO  12:54:17  Successfully logged out
+INFO  02:53:17 Application started. Press Ctrl+C to shut down.
+INFO  02:53:17 Application started. Press Ctrl+C to shut down.
+INFO  02:53:17 Hosting environment: Development
+INFO  02:53:17 Hosting environment: Development
+INFO  02:53:17 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:53:17 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:53:26 User Login Initiated
+INFO  02:53:34 User Login Initiated
+INFO  02:54:04 User Login Initiated
+INFO  02:54:30 User Login Initiated
+INFO  02:58:03 Application started. Press Ctrl+C to shut down.
+INFO  02:58:03 Application started. Press Ctrl+C to shut down.
+INFO  02:58:03 Hosting environment: Development
+INFO  02:58:03 Hosting environment: Development
+INFO  02:58:03 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:58:03 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  02:58:37 User Login Initiated
+INFO  03:01:29 Application started. Press Ctrl+C to shut down.
+INFO  03:01:29 Application started. Press Ctrl+C to shut down.
+INFO  03:01:29 Hosting environment: Development
+INFO  03:01:29 Hosting environment: Development
+INFO  03:01:29 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:01:29 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:01:39 User Login Initiated
+INFO  03:02:04 User Login Initiated
+INFO  03:04:05 Application started. Press Ctrl+C to shut down.
+INFO  03:04:05 Application started. Press Ctrl+C to shut down.
+INFO  03:04:05 Hosting environment: Development
+INFO  03:04:05 Hosting environment: Development
+INFO  03:04:05 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:04:05 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:04:17 User Login Initiated
+INFO  03:04:26 Ganesh successfully logged in
+ERROR 03:04:27 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: String reference not set to an instance of a String. (Parameter 's')
+   at System.Text.Encoding.GetBytes(String s)
+   at Microsoft.AspNetCore.Http.SessionExtensions.SetString(ISession session, String key, String value)
+   at Client.Controllers.LoginController.Login(User user) in C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client\Controllers\LoginController.cs:line 54
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:04:27 An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: String reference not set to an instance of a String. (Parameter 's')
+   at System.Text.Encoding.GetBytes(String s)
+   at Microsoft.AspNetCore.Http.SessionExtensions.SetString(ISession session, String key, String value)
+   at Client.Controllers.LoginController.Login(User user) in C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client\Controllers\LoginController.cs:line 54
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  03:06:00 Application started. Press Ctrl+C to shut down.
+INFO  03:06:00 Application started. Press Ctrl+C to shut down.
+INFO  03:06:00 Hosting environment: Development
+INFO  03:06:00 Hosting environment: Development
+INFO  03:06:00 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:06:00 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:06:34 User Login Initiated
+INFO  03:06:53 User Login Initiated
+INFO  03:06:58 Ganesh successfully logged in
+INFO  03:07:02 Ganesh requested all menuitems
+INFO  03:07:03 Ganesh Successfully got all menuitems
+INFO  03:07:18 Successfully loaded menuitem Maggie to edit 
+ERROR 03:07:21 The view 'EditMenuItem' was not found. Searched locations: /Views/Menu/EditMenuItem.cshtml, /Views/Shared/EditMenuItem.cshtml
+ERROR 03:07:21 The view 'EditMenuItem' was not found. Searched locations: /Views/Menu/EditMenuItem.cshtml, /Views/Shared/EditMenuItem.cshtml
+ERROR 03:07:21 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'EditMenuItem' was not found. The following locations were searched:
+/Views/Menu/EditMenuItem.cshtml
+/Views/Shared/EditMenuItem.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:07:21 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'EditMenuItem' was not found. The following locations were searched:
+/Views/Menu/EditMenuItem.cshtml
+/Views/Shared/EditMenuItem.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  03:14:53 Application started. Press Ctrl+C to shut down.
+INFO  03:14:53 Application started. Press Ctrl+C to shut down.
+INFO  03:14:53 Hosting environment: Development
+INFO  03:14:53 Hosting environment: Development
+INFO  03:14:53 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:14:53 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:15:54 User Login Initiated
+INFO  03:16:00 Ganesh successfully logged in
+INFO  03:16:05 Ganesh requested all menuitems
+INFO  03:16:05 Ganesh Successfully got all menuitems
+INFO  03:16:09 Successfully loaded menuitem Maggie to edit 
+INFO  03:16:25  Successfully logged out
+INFO  03:16:35 User Login Initiated
+INFO  03:16:48 Deepak successfully logged in
+INFO  03:16:48 Deepak requested all menuitems
+INFO  03:16:48 Deepak Successfully got all menuitems
+INFO  03:16:54 Successfully added Maggie to cart of user Deepak
+INFO  03:16:54 Getting cart of user Deepak
+INFO  03:16:54 User has 4 items in his cart
+INFO  03:16:58 Successfully deleted menuItem with id 3 to cart of user Deepak
+INFO  03:16:58 Getting cart of user Deepak
+INFO  03:16:58 User has 3 items in his cart
+INFO  03:16:59 Successfully deleted menuItem with id 4 to cart of user Deepak
+INFO  03:16:59 Getting cart of user Deepak
+INFO  03:16:59 User has 2 items in his cart
+INFO  03:17:02 Successfully deleted menuItem with id 2 to cart of user Deepak
+INFO  03:17:02 Getting cart of user Deepak
+INFO  03:17:02 User has 1 items in his cart
+INFO  03:17:05 Getting cart of user Deepak
+INFO  03:17:05 User has 1 items in his cart
+INFO  03:17:06 Deepak requested all menuitems
+INFO  03:17:06 Deepak Successfully got all menuitems
+INFO  03:17:08 Getting cart of user Deepak
+INFO  03:17:08 User has 1 items in his cart
+INFO  03:25:16 Application started. Press Ctrl+C to shut down.
+INFO  03:25:16 Application started. Press Ctrl+C to shut down.
+INFO  03:25:16 Hosting environment: Development
+INFO  03:25:16 Hosting environment: Development
+INFO  03:25:16 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:25:16 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:25:27 User Login Initiated
+INFO  03:25:28 Ganesh successfully logged in
+INFO  03:25:28 Ganesh requested all menuitems
+INFO  03:25:29 Ganesh Successfully got all menuitems
+INFO  03:25:33 Successfully loaded menuitem Maggie to edit 
+INFO  03:25:53 Ganesh requested all menuitems
+INFO  03:25:53 Ganesh Successfully got all menuitems
+INFO  03:25:56 Successfully loaded menuitem Chicken Manchuria to edit 
+INFO  03:26:56 Application started. Press Ctrl+C to shut down.
+INFO  03:26:56 Application started. Press Ctrl+C to shut down.
+INFO  03:26:56 Hosting environment: Development
+INFO  03:26:56 Hosting environment: Development
+INFO  03:26:56 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:26:56 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:27:04 User Login Initiated
+INFO  03:27:05 Ganesh successfully logged in
+INFO  03:27:05 Ganesh requested all menuitems
+INFO  03:27:06 Ganesh Successfully got all menuitems
+INFO  03:27:08 Successfully loaded menuitem Maggie to edit 
+INFO  03:28:58 Application started. Press Ctrl+C to shut down.
+INFO  03:28:58 Application started. Press Ctrl+C to shut down.
+INFO  03:28:58 Hosting environment: Development
+INFO  03:28:58 Hosting environment: Development
+INFO  03:28:58 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:28:58 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:29:07 User Login Initiated
+INFO  03:29:09 Ganesh successfully logged in
+INFO  03:29:09 Ganesh requested all menuitems
+INFO  03:29:09 Ganesh Successfully got all menuitems
+INFO  03:29:13 Successfully loaded menuitem Maggie to edit 
+INFO  03:31:14 Application started. Press Ctrl+C to shut down.
+INFO  03:31:14 Application started. Press Ctrl+C to shut down.
+INFO  03:31:14 Hosting environment: Development
+INFO  03:31:14 Hosting environment: Development
+INFO  03:31:14 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:31:14 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:31:22 User Login Initiated
+INFO  03:31:24 Deepak successfully logged in
+INFO  03:31:24 Deepak requested all menuitems
+INFO  03:31:24 Deepak Successfully got all menuitems
+INFO  03:31:29 Successfully added Maggie to cart of user Deepak
+INFO  03:31:29 Getting cart of user Deepak
+INFO  03:31:29 User has 4 items in his cart
+INFO  03:31:32 Successfully deleted menuItem with id 2 to cart of user Deepak
+INFO  03:31:32 Getting cart of user Deepak
+INFO  03:31:32 User has 3 items in his cart
+INFO  03:31:36 Deepak requested all menuitems
+INFO  03:31:36 Deepak Successfully got all menuitems
+INFO  03:31:37 Getting cart of user Deepak
+INFO  03:31:37 User has 3 items in his cart
+INFO  03:31:42 Successfully deleted menuItem with id 4 to cart of user Deepak
+INFO  03:31:42 Getting cart of user Deepak
+INFO  03:31:42 User has 2 items in his cart
+INFO  03:31:44 Deepak requested all menuitems
+INFO  03:31:44 Deepak Successfully got all menuitems
+INFO  03:31:46 Getting cart of user Deepak
+INFO  03:31:46 User has 2 items in his cart
+INFO  03:31:48 Deepak requested all menuitems
+INFO  03:31:48 Deepak Successfully got all menuitems
+INFO  03:31:52 Successfully added Maggie to cart of user Deepak
+INFO  03:31:52 Getting cart of user Deepak
+INFO  03:31:52 User has 3 items in his cart
+INFO  03:31:56 Deepak requested all menuitems
+INFO  03:31:56 Deepak Successfully got all menuitems
+INFO  03:31:57 Deepak requested all menuitems
+INFO  03:31:57 Deepak Successfully got all menuitems
+INFO  03:31:59  Successfully logged out
+INFO  03:32:11 User Login Initiated
+INFO  03:32:11 Ganesh successfully logged in
+INFO  03:32:11 Ganesh requested all menuitems
+INFO  03:32:11 Ganesh Successfully got all menuitems
+INFO  03:32:14 Successfully loaded menuitem Maggie to edit 
+INFO  03:46:17 Application started. Press Ctrl+C to shut down.
+INFO  03:46:17 Application started. Press Ctrl+C to shut down.
+INFO  03:46:17 Hosting environment: Development
+INFO  03:46:17 Hosting environment: Development
+INFO  03:46:17 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:46:17 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:46:29 User Login Initiated
+INFO  03:46:31 Ganesh successfully logged in
+INFO  03:46:31 Ganesh requested all menuitems
+INFO  03:46:31 Ganesh Successfully got all menuitems
+INFO  03:46:35 Successfully loaded menuitem Maggie to edit 
+ERROR 03:46:52 An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+Client.Controllers.CartController.AddToCart (Client)
+Client.Controllers.MenuController.EditMenuItem (Client)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:46:52 An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+Client.Controllers.CartController.AddToCart (Client)
+Client.Controllers.MenuController.EditMenuItem (Client)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.Select(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  03:47:39 Application started. Press Ctrl+C to shut down.
+INFO  03:47:39 Application started. Press Ctrl+C to shut down.
+INFO  03:47:39 Hosting environment: Development
+INFO  03:47:39 Hosting environment: Development
+INFO  03:47:39 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:47:39 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:48:06 User Login Initiated
+INFO  03:48:07 Ganesh successfully logged in
+INFO  03:48:07 Ganesh requested all menuitems
+INFO  03:48:08 Ganesh Successfully got all menuitems
+INFO  03:51:34 Application started. Press Ctrl+C to shut down.
+INFO  03:51:34 Application started. Press Ctrl+C to shut down.
+INFO  03:51:34 Hosting environment: Development
+INFO  03:51:34 Hosting environment: Development
+INFO  03:51:34 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:51:34 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:51:42 User Login Initiated
+INFO  03:51:43 Ganesh successfully logged in
+INFO  03:51:43 Ganesh requested all menuitems
+INFO  03:51:44 Ganesh Successfully got all menuitems
+INFO  03:51:47 Successfully loaded menuitem Maggie to edit 
+INFO  03:52:10 Successfully edited menuitem with name Maggie
+INFO  03:52:14 Ganesh requested all menuitems
+INFO  03:52:20 Ganesh Successfully got all menuitems
+INFO  03:53:05 Application started. Press Ctrl+C to shut down.
+INFO  03:53:05 Application started. Press Ctrl+C to shut down.
+INFO  03:53:05 Hosting environment: Development
+INFO  03:53:05 Hosting environment: Development
+INFO  03:53:05 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:53:05 Content root path: C:\Users\Ganesh\source\repos\Truyum_Without_Db\Client
+INFO  03:53:14 User Login Initiated
+INFO  03:53:15 Deepak successfully logged in
+INFO  03:53:15 Deepak requested all menuitems
+INFO  03:53:15 Deepak Successfully got all menuitems
+INFO  03:53:19 Successfully added Chicken Manchuria to cart of user Deepak
+INFO  03:53:19 Getting cart of user Deepak
+INFO  03:53:19 User has 4 items in his cart
+INFO  03:53:22 Successfully deleted menuItem with id 2 to cart of user Deepak
+INFO  03:53:22 Getting cart of user Deepak
+INFO  03:53:22 User has 3 items in his cart
+INFO  03:53:25 Successfully deleted menuItem with id 3 to cart of user Deepak
+INFO  03:53:25 Getting cart of user Deepak
+INFO  03:53:25 User has 2 items in his cart
+INFO  03:53:27  Successfully logged out

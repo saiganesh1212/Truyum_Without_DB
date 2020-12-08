@@ -1,0 +1,464 @@
+﻿INFO  01:57:16 Application started. Press Ctrl+C to shut down.
+INFO  01:57:16 Application started. Press Ctrl+C to shut down.
+INFO  01:57:16 Hosting environment: Development
+INFO  01:57:16 Hosting environment: Development
+INFO  01:57:16 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  01:57:16 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  02:02:42 Application started. Press Ctrl+C to shut down.
+INFO  02:02:42 Application started. Press Ctrl+C to shut down.
+INFO  02:02:42 Hosting environment: Development
+INFO  02:02:42 Hosting environment: Development
+INFO  02:02:42 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  02:02:42 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  02:04:12 Login Initiated for user Deepak
+INFO  02:04:12 Token Generation Started
+INFO  02:04:14 Successfully logged In and token returned for user Deepak
+INFO  02:04:22 Login Initiated for user Deepak
+INFO  02:04:22 User does not exist
+INFO  02:04:26 Login Initiated for user Deepak
+INFO  02:04:26 User does not exist
+INFO  02:07:05 Application started. Press Ctrl+C to shut down.
+INFO  02:07:05 Application started. Press Ctrl+C to shut down.
+INFO  02:07:05 Hosting environment: Development
+INFO  02:07:05 Hosting environment: Development
+INFO  02:07:05 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  02:07:05 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  02:07:45 Login Initiated for user Nani
+INFO  02:07:45 Token Generation Started
+INFO  02:07:46 Successfully logged In and token returned for user Nani
+INFO  02:07:59 Login Initiated for user Nani
+INFO  02:07:59 User does not exist
+INFO  12:15:49 Application started. Press Ctrl+C to shut down.
+INFO  12:15:49 Application started. Press Ctrl+C to shut down.
+INFO  12:15:49 Hosting environment: Development
+INFO  12:15:49 Hosting environment: Development
+INFO  12:15:49 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  12:15:49 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  12:18:09 Login Initiated for user Ganesh
+INFO  12:18:09 Token Generation Started
+INFO  12:18:10 Successfully logged In and token returned for user Ganesh
+INFO  12:26:05 Application started. Press Ctrl+C to shut down.
+INFO  12:26:05 Application started. Press Ctrl+C to shut down.
+INFO  12:26:05 Hosting environment: Development
+INFO  12:26:05 Hosting environment: Development
+INFO  12:26:05 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  12:26:05 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  12:27:07 Login Initiated for user Ganesh
+INFO  12:27:07 Token Generation Started
+INFO  12:27:08 Successfully logged In and token returned for user Ganesh
+INFO  12:36:16 Application started. Press Ctrl+C to shut down.
+INFO  12:36:16 Application started. Press Ctrl+C to shut down.
+INFO  12:36:16 Hosting environment: Development
+INFO  12:36:16 Hosting environment: Development
+INFO  12:36:16 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  12:36:16 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  12:39:25 Login Initiated for user Ganesh
+INFO  12:39:25 Token Generation Started
+INFO  12:39:26 Successfully logged In and token returned for user Ganesh
+INFO  11:39:13 Application started. Press Ctrl+C to shut down.
+INFO  11:39:13 Application started. Press Ctrl+C to shut down.
+INFO  11:39:13 Hosting environment: Development
+INFO  11:39:13 Hosting environment: Development
+INFO  11:39:13 Content root path: C:\Users\Ganesh\source\repos\Auth_Service_Without_DB\Auth_Service_Without_DB
+INFO  11:39:13 Content root path: C:\Users\Ganesh\source\repos\Auth_Service_Without_DB\Auth_Service_Without_DB
+INFO  06:39:55 Application started. Press Ctrl+C to shut down.
+INFO  06:39:55 Application started. Press Ctrl+C to shut down.
+INFO  06:39:55 Hosting environment: Development
+INFO  06:39:55 Hosting environment: Development
+INFO  06:39:55 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  06:39:55 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  06:42:45 Login Initiated for user Ganesh
+INFO  06:43:20 Token Generation Started
+INFO  06:43:20 Successfully logged In and token returned for user Ganesh
+INFO  06:50:03 Application started. Press Ctrl+C to shut down.
+INFO  06:50:03 Application started. Press Ctrl+C to shut down.
+INFO  06:50:03 Hosting environment: Development
+INFO  06:50:03 Hosting environment: Development
+INFO  06:50:03 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  06:50:03 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  06:51:30 Login Initiated for user Ganesh
+INFO  06:51:57 Token Generation Started
+INFO  06:51:58 Successfully logged In and token returned for user Ganesh
+INFO  07:01:23 Application started. Press Ctrl+C to shut down.
+INFO  07:01:24 Application started. Press Ctrl+C to shut down.
+INFO  07:01:24 Hosting environment: Development
+INFO  07:01:24 Hosting environment: Development
+INFO  07:01:24 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:01:24 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:02:09 Login Initiated for user Ganesh
+INFO  07:02:33 Token Generation Started
+INFO  07:02:35 Successfully logged In and token returned for user Ganesh
+INFO  07:13:27 Application started. Press Ctrl+C to shut down.
+INFO  07:13:27 Application started. Press Ctrl+C to shut down.
+INFO  07:13:27 Hosting environment: Development
+INFO  07:13:27 Hosting environment: Development
+INFO  07:13:27 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:13:27 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:15:45 Application started. Press Ctrl+C to shut down.
+INFO  07:15:45 Application started. Press Ctrl+C to shut down.
+INFO  07:15:45 Hosting environment: Development
+INFO  07:15:45 Hosting environment: Development
+INFO  07:15:45 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:15:45 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:17:21 Login Initiated for user Ganesh
+INFO  07:17:34 Token Generation Started
+INFO  07:17:35 Successfully logged In and token returned for user Ganesh
+INFO  07:27:17 Application started. Press Ctrl+C to shut down.
+INFO  07:27:17 Application started. Press Ctrl+C to shut down.
+INFO  07:27:17 Hosting environment: Development
+INFO  07:27:17 Hosting environment: Development
+INFO  07:27:18 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:27:18 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:28:56 Login Initiated for user Ganesh
+INFO  07:29:13 Token Generation Started
+INFO  07:29:13 Successfully logged In and token returned for user Ganesh
+INFO  07:38:37 Application started. Press Ctrl+C to shut down.
+INFO  07:38:37 Application started. Press Ctrl+C to shut down.
+INFO  07:38:37 Hosting environment: Development
+INFO  07:38:37 Hosting environment: Development
+INFO  07:38:37 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:38:37 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:39:17 Login Initiated for user Ganesh
+INFO  07:39:27 Token Generation Started
+INFO  07:39:29 Successfully logged In and token returned for user Ganesh
+INFO  03:26:03 Application started. Press Ctrl+C to shut down.
+INFO  03:26:04 Application started. Press Ctrl+C to shut down.
+INFO  03:26:04 Hosting environment: Development
+INFO  03:26:04 Hosting environment: Development
+INFO  03:26:04 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  03:26:04 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  03:26:05 Login Initiated for user Ganesh
+INFO  03:26:05 Token Generation Started
+INFO  03:26:06 Successfully logged In and token returned for user Ganesh
+INFO  03:45:46 Application started. Press Ctrl+C to shut down.
+INFO  03:45:46 Application started. Press Ctrl+C to shut down.
+INFO  03:45:46 Hosting environment: Development
+INFO  03:45:46 Hosting environment: Development
+INFO  03:45:46 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  03:45:46 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  03:47:12 Application started. Press Ctrl+C to shut down.
+INFO  03:47:12 Application started. Press Ctrl+C to shut down.
+INFO  03:47:12 Hosting environment: Development
+INFO  03:47:12 Hosting environment: Development
+INFO  03:47:12 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  03:47:12 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  03:51:15 Application started. Press Ctrl+C to shut down.
+INFO  03:51:15 Application started. Press Ctrl+C to shut down.
+INFO  03:51:15 Hosting environment: Development
+INFO  03:51:15 Hosting environment: Development
+INFO  03:51:15 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  03:51:15 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  03:54:45 Login Initiated for user Ganesh
+INFO  03:56:22 Token Generation Started
+INFO  03:56:23 Successfully logged In and token returned for user Ganesh
+INFO  03:59:50 Application started. Press Ctrl+C to shut down.
+INFO  03:59:50 Application started. Press Ctrl+C to shut down.
+INFO  03:59:50 Hosting environment: Development
+INFO  03:59:50 Hosting environment: Development
+INFO  03:59:50 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  03:59:50 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  04:03:02 Application started. Press Ctrl+C to shut down.
+INFO  04:03:02 Application started. Press Ctrl+C to shut down.
+INFO  04:03:02 Hosting environment: Development
+INFO  04:03:02 Hosting environment: Development
+INFO  04:03:02 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  04:03:02 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  04:09:03 Application started. Press Ctrl+C to shut down.
+INFO  04:09:03 Application started. Press Ctrl+C to shut down.
+INFO  04:09:03 Hosting environment: Development
+INFO  04:09:03 Hosting environment: Development
+INFO  04:09:04 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  04:09:04 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  04:11:32 Application started. Press Ctrl+C to shut down.
+INFO  04:11:32 Application started. Press Ctrl+C to shut down.
+INFO  04:11:32 Hosting environment: Development
+INFO  04:11:32 Hosting environment: Development
+INFO  04:11:32 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  04:11:32 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  04:54:59 Application started. Press Ctrl+C to shut down.
+INFO  04:54:59 Application started. Press Ctrl+C to shut down.
+INFO  04:54:59 Hosting environment: Development
+INFO  04:54:59 Hosting environment: Development
+INFO  04:54:59 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  04:54:59 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:12:28 Application started. Press Ctrl+C to shut down.
+INFO  07:12:28 Application started. Press Ctrl+C to shut down.
+INFO  07:12:28 Hosting environment: Development
+INFO  07:12:28 Hosting environment: Development
+INFO  07:12:28 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:12:28 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:17:50 Application started. Press Ctrl+C to shut down.
+INFO  07:17:50 Application started. Press Ctrl+C to shut down.
+INFO  07:17:50 Hosting environment: Development
+INFO  07:17:50 Hosting environment: Development
+INFO  07:17:50 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:17:50 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:19:31 Login Initiated for user Ganesh
+INFO  07:20:37 Token Generation Started
+INFO  07:20:39 Successfully logged In and token returned for user Ganesh
+INFO  07:34:03 Application started. Press Ctrl+C to shut down.
+INFO  07:34:04 Application started. Press Ctrl+C to shut down.
+INFO  07:34:04 Hosting environment: Development
+INFO  07:34:04 Hosting environment: Development
+INFO  07:34:04 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:34:04 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:40:30 Application started. Press Ctrl+C to shut down.
+INFO  07:40:31 Application started. Press Ctrl+C to shut down.
+INFO  07:40:31 Hosting environment: Development
+INFO  07:40:31 Hosting environment: Development
+INFO  07:40:31 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:40:31 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:46:50 Login Initiated for user Ganesh
+INFO  07:53:08 Application started. Press Ctrl+C to shut down.
+INFO  07:53:08 Application started. Press Ctrl+C to shut down.
+INFO  07:53:08 Hosting environment: Development
+INFO  07:53:08 Hosting environment: Development
+INFO  07:53:08 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:53:08 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:57:12 Application started. Press Ctrl+C to shut down.
+INFO  07:57:12 Application started. Press Ctrl+C to shut down.
+INFO  07:57:12 Hosting environment: Development
+INFO  07:57:12 Hosting environment: Development
+INFO  07:57:12 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:57:12 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  07:58:51 Login Initiated for user Ganesh
+INFO  07:58:51 Token Generation Started
+INFO  07:58:53 Successfully logged In and token returned for user Ganesh
+INFO  01:17:52 Application started. Press Ctrl+C to shut down.
+INFO  01:17:52 Application started. Press Ctrl+C to shut down.
+INFO  01:17:52 Hosting environment: Development
+INFO  01:17:52 Hosting environment: Development
+INFO  01:17:52 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  01:17:52 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  01:20:21 Application started. Press Ctrl+C to shut down.
+INFO  01:20:21 Application started. Press Ctrl+C to shut down.
+INFO  01:20:21 Hosting environment: Development
+INFO  01:20:21 Hosting environment: Development
+INFO  01:20:21 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  01:20:21 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  01:21:27 Login Initiated for user Ganesh
+INFO  01:21:27 Token Generation Started
+INFO  01:21:28 Successfully logged In and token returned for user Ganesh
+INFO  02:09:17 Application started. Press Ctrl+C to shut down.
+INFO  02:09:17 Application started. Press Ctrl+C to shut down.
+INFO  02:09:17 Hosting environment: Development
+INFO  02:09:17 Hosting environment: Development
+INFO  02:09:17 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  02:09:17 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  02:09:30 Login Initiated for user Ganesh
+INFO  02:09:30 Token Generation Started
+INFO  02:09:30 Successfully logged In and token returned for user Ganesh
+INFO  02:54:44 Application started. Press Ctrl+C to shut down.
+INFO  02:54:44 Application started. Press Ctrl+C to shut down.
+INFO  02:54:44 Hosting environment: Development
+INFO  02:54:44 Hosting environment: Development
+INFO  02:54:44 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  02:54:44 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  02:55:03 Login Initiated for user Ganesh
+INFO  02:55:03 Token Generation Started
+INFO  02:55:03 Successfully logged In and token returned for user Ganesh
+INFO  02:57:13 Application started. Press Ctrl+C to shut down.
+INFO  02:57:13 Application started. Press Ctrl+C to shut down.
+INFO  02:57:13 Hosting environment: Development
+INFO  02:57:13 Hosting environment: Development
+INFO  02:57:13 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  02:57:13 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  03:20:12 Application started. Press Ctrl+C to shut down.
+INFO  03:20:12 Application started. Press Ctrl+C to shut down.
+INFO  03:20:12 Hosting environment: Development
+INFO  03:20:12 Hosting environment: Development
+INFO  03:20:12 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  03:20:12 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  03:20:49 Login Initiated for user Ganesh
+INFO  03:20:49 Token Generation Started
+INFO  03:20:49 Successfully logged In and token returned for user Ganesh
+INFO  03:25:43 Application started. Press Ctrl+C to shut down.
+INFO  03:25:43 Application started. Press Ctrl+C to shut down.
+INFO  03:25:43 Hosting environment: Development
+INFO  03:25:43 Hosting environment: Development
+INFO  03:25:43 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  03:25:43 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  03:25:58 Login Initiated for user Ganesh
+INFO  03:25:58 Token Generation Started
+INFO  03:25:59 Successfully logged In and token returned for user Ganesh
+INFO  03:29:13 Application started. Press Ctrl+C to shut down.
+INFO  03:29:13 Application started. Press Ctrl+C to shut down.
+INFO  03:29:13 Hosting environment: Development
+INFO  03:29:13 Hosting environment: Development
+INFO  03:29:13 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  03:29:13 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  03:29:28 Login Initiated for user Ganesh
+INFO  03:29:28 Token Generation Started
+INFO  03:29:29 Successfully logged In and token returned for user Ganesh
+INFO  03:51:20 Application started. Press Ctrl+C to shut down.
+INFO  03:51:20 Application started. Press Ctrl+C to shut down.
+INFO  03:51:20 Hosting environment: Development
+INFO  03:51:20 Hosting environment: Development
+INFO  03:51:20 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  03:51:20 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  03:51:46 Login Initiated for user Ganesh
+INFO  03:51:46 Token Generation Started
+INFO  03:51:47 Successfully logged In and token returned for user Ganesh
+INFO  03:53:00 Application started. Press Ctrl+C to shut down.
+INFO  03:53:00 Application started. Press Ctrl+C to shut down.
+INFO  03:53:01 Hosting environment: Development
+INFO  03:53:01 Hosting environment: Development
+INFO  03:53:01 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  03:53:01 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  03:53:16 Login Initiated for user Ganesh
+INFO  03:53:16 Token Generation Started
+INFO  03:53:16 Successfully logged In and token returned for user Ganesh
+INFO  04:37:39 Application started. Press Ctrl+C to shut down.
+INFO  04:37:39 Application started. Press Ctrl+C to shut down.
+INFO  04:37:39 Hosting environment: Development
+INFO  04:37:39 Hosting environment: Development
+INFO  04:37:39 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  04:37:39 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  04:38:37 Login Initiated for user Ganesh
+INFO  04:38:37 User does not exist
+INFO  04:44:24 Application started. Press Ctrl+C to shut down.
+INFO  04:44:24 Application started. Press Ctrl+C to shut down.
+INFO  04:44:24 Hosting environment: Development
+INFO  04:44:24 Hosting environment: Development
+INFO  04:44:24 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  04:44:24 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  04:44:44 Login Initiated for user Ganesh
+INFO  04:44:44 User does not exist
+INFO  04:46:31 Login Initiated for user Ganesh 
+INFO  04:46:31 User does not exist
+INFO  04:46:47 Login Initiated for user Ganesh
+INFO  04:46:47 Token Generation Started
+INFO  04:46:47 Successfully logged In and token returned for user Ganesh
+INFO  05:05:04 Application started. Press Ctrl+C to shut down.
+INFO  05:05:04 Application started. Press Ctrl+C to shut down.
+INFO  05:05:04 Hosting environment: Development
+INFO  05:05:04 Hosting environment: Development
+INFO  05:05:04 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  05:05:04 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  05:07:11 Application started. Press Ctrl+C to shut down.
+INFO  05:07:11 Application started. Press Ctrl+C to shut down.
+INFO  05:07:11 Hosting environment: Development
+INFO  05:07:11 Hosting environment: Development
+INFO  05:07:11 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  05:07:11 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  05:10:25 Application started. Press Ctrl+C to shut down.
+INFO  05:10:25 Application started. Press Ctrl+C to shut down.
+INFO  05:10:25 Hosting environment: Development
+INFO  05:10:25 Hosting environment: Development
+INFO  05:10:25 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  05:10:25 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  05:10:42 Login Initiated for user Ganesh
+INFO  05:10:42 User does not exist
+INFO  05:10:53 Login Initiated for user Ganesh
+INFO  05:10:53 Token Generation Started
+INFO  05:10:53 Successfully logged In and token returned for user Ganesh
+INFO  05:11:48 Application started. Press Ctrl+C to shut down.
+INFO  05:11:48 Application started. Press Ctrl+C to shut down.
+INFO  05:11:48 Hosting environment: Development
+INFO  05:11:48 Hosting environment: Development
+INFO  05:11:48 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  05:11:48 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  05:12:07 Login Initiated for user Ganesh
+INFO  05:12:07 Token Generation Started
+INFO  05:12:08 Successfully logged In and token returned for user Ganesh
+INFO  05:16:08 Application started. Press Ctrl+C to shut down.
+INFO  05:16:08 Application started. Press Ctrl+C to shut down.
+INFO  05:16:08 Hosting environment: Development
+INFO  05:16:08 Hosting environment: Development
+INFO  05:16:08 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  05:16:08 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  05:16:27 Login Initiated for user Ganesh
+INFO  05:16:27 Token Generation Started
+INFO  05:16:27 Successfully logged In and token returned for user Ganesh
+INFO  05:19:09 Application started. Press Ctrl+C to shut down.
+INFO  05:19:09 Application started. Press Ctrl+C to shut down.
+INFO  05:19:09 Hosting environment: Development
+INFO  05:19:09 Hosting environment: Development
+INFO  05:19:09 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  05:19:09 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  05:19:24 Login Initiated for user Ganesh
+INFO  05:19:24 Token Generation Started
+INFO  05:19:24 Successfully logged In and token returned for user Ganesh
+INFO  05:28:54 Application started. Press Ctrl+C to shut down.
+INFO  05:28:54 Application started. Press Ctrl+C to shut down.
+INFO  05:28:54 Hosting environment: Development
+INFO  05:28:54 Hosting environment: Development
+INFO  05:28:54 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  05:28:54 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  05:29:10 Login Initiated for user Ganesh
+INFO  05:29:10 Token Generation Started
+INFO  05:29:11 Successfully logged In and token returned for user Ganesh
+INFO  05:31:28 Application started. Press Ctrl+C to shut down.
+INFO  05:31:28 Application started. Press Ctrl+C to shut down.
+INFO  05:31:28 Hosting environment: Development
+INFO  05:31:28 Hosting environment: Development
+INFO  05:31:28 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  05:31:28 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  05:31:39 Login Initiated for user Ganesh
+INFO  05:31:39 User does not exist
+INFO  05:31:48 Login Initiated for user Ganesh
+INFO  05:31:48 Token Generation Started
+INFO  05:31:49 Successfully logged In and token returned for user Ganesh
+INFO  05:32:43 Login Initiated for user Ganesh
+INFO  05:32:43 Token Generation Started
+INFO  05:32:43 Successfully logged In and token returned for user Ganesh
+INFO  05:34:17 Application started. Press Ctrl+C to shut down.
+INFO  05:34:17 Application started. Press Ctrl+C to shut down.
+INFO  05:34:17 Hosting environment: Development
+INFO  05:34:17 Hosting environment: Development
+INFO  05:34:17 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  05:34:17 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  05:34:28 Login Initiated for user Ganesh
+INFO  05:34:28 Token Generation Started
+INFO  05:34:28 Successfully logged In and token returned for user Ganesh
+INFO  05:56:04 Application started. Press Ctrl+C to shut down.
+INFO  05:56:04 Application started. Press Ctrl+C to shut down.
+INFO  05:56:04 Hosting environment: Development
+INFO  05:56:04 Hosting environment: Development
+INFO  05:56:05 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  05:56:05 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  05:56:18 Login Initiated for user Ganesh
+INFO  05:56:18 User does not exist
+INFO  05:56:29 Login Initiated for user Ganesh
+INFO  05:56:29 Token Generation Started
+INFO  05:56:30 Successfully logged In and token returned for user Ganesh
+INFO  09:27:16 Application started. Press Ctrl+C to shut down.
+INFO  09:27:16 Application started. Press Ctrl+C to shut down.
+INFO  09:27:17 Hosting environment: Development
+INFO  09:27:17 Hosting environment: Development
+INFO  09:27:17 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  09:27:17 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  09:27:31 Login Initiated for user Ganesh
+INFO  09:27:31 User does not exist
+INFO  09:27:40 Login Initiated for user Ganesh
+INFO  09:27:40 Token Generation Started
+INFO  09:27:40 Successfully logged In and token returned for user Ganesh
+INFO  09:36:50 Application started. Press Ctrl+C to shut down.
+INFO  09:36:50 Application started. Press Ctrl+C to shut down.
+INFO  09:36:50 Hosting environment: Development
+INFO  09:36:50 Hosting environment: Development
+INFO  09:36:50 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  09:36:50 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  09:37:04 Login Initiated for user Ganesh
+INFO  09:37:04 Token Generation Started
+INFO  09:37:04 Successfully logged In and token returned for user Ganesh
+INFO  09:50:12 Application started. Press Ctrl+C to shut down.
+INFO  09:50:12 Application started. Press Ctrl+C to shut down.
+INFO  09:50:12 Hosting environment: Development
+INFO  09:50:12 Hosting environment: Development
+INFO  09:50:12 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  09:50:12 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  09:50:40 Login Initiated for user Deepak
+INFO  09:50:40 User does not exist
+INFO  09:50:46 Login Initiated for user Deepak
+INFO  09:50:46 Token Generation Started
+INFO  09:50:46 Successfully logged In and token returned for user Deepak
+INFO  10:06:30 Application started. Press Ctrl+C to shut down.
+INFO  10:06:30 Application started. Press Ctrl+C to shut down.
+INFO  10:06:30 Hosting environment: Development
+INFO  10:06:30 Hosting environment: Development
+INFO  10:06:30 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  10:06:30 Content root path: C:\Users\Ganesh\source\repos\Airline_Reservation_Without_DB\Auth_Service_Without_DB
+INFO  10:06:49 Login Initiated for user Deepak
+INFO  10:06:49 Token Generation Started
+INFO  10:06:49 Successfully logged In and token returned for user Deepak

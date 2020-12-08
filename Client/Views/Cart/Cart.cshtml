@@ -1,0 +1,83 @@
+﻿@model IEnumerable<Client.Models.MenuItem>
+
+@{
+    ViewData["Title"] = "Cart";
+}
+<head><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"></head>
+
+@if (ViewBag.message == "Cart Empty")
+{
+    <h2 class="text-danger justify-content-center">Cart Empty</h2>
+}
+else
+{
+
+    double total = 0;
+
+    <h1>Cart</h1>
+    <table class="table table-borderless">
+        <thead>
+            <tr>
+                
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.FreeDelivery)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Price)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DateOfLaunch)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Active)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CategoryName)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                total= total+item.Price;
+                <tr>
+                    
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FreeDelivery)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DateOfLaunch)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Active)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CategoryName)
+                    </td>
+                    <td>
+                        @using (Html.BeginForm("DeleteFromCart", "Cart", new { @menuItemId = item.Id },FormMethod.Post))
+                        {
+                            
+                        <button class="btn" type="submit"><span class="material-icons btn-danger">
+    remove_circle
+</span></button>
+                            
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <h4 class="text-info justify-content-center">Price- @total</h4>
+}
+
